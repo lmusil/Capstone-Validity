@@ -14,3 +14,9 @@ Finding tools that can aid in the creation of metadata, without being too compli
 
 # 3.	Standards and Validation: 
 Metadata in most scientific repositories must be valid against a particular set of standards, such as ISO requirements. These standards (schemas) are established to control the quality of metadata, so when attempting to harvest ones’ metadata into another catalog it checks your metadata against the schema in the catalog you are attempting to harvest into.  If there are faults, the metadata records will not be accepted.  To resolve some of the issues with picky validation schemas the project will contain low-quality metadata using default entries, as well as high quality metadata that provides all the necessary fields without having to use NULL or UNKNOWN comments.  This will help create a visual for the audience on why even the smallest details are important.
+
+
+
+Some items have been cloned into this standing repository, find information on individual repos by search. citations and Use. All repositories cloned have been edited/created by self prior. 
+
+Templates can be found through USGIN, Data can be found through California Geological Survey, and AZGS material is now property of UofA. 
