@@ -1,6 +1,7 @@
 import os, re, datetime, urllib2
 from lxml import etree
 from urllib2 import URLError, HTTPError
+#lxml import before running
 
 ns = {'gmd': 'http://www.isotc211.org/2005/gmd',
       'srv': 'http://www.isotc211.org/2005/srv',
